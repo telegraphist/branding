@@ -49,9 +49,9 @@ license for all details.
 
 # Font Style Montserrat
 
-**Notice:** The font can be downloaded from the [Google Font Library][1].
+**Notice:** The font can be downloaded from the [Google Font Library][5].
 
-[1]: https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat#standard-styles
+[5]: https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat&sidebar.open=true
 
 <img src="system-images/thin-normal-100.svg" alt="Montserrat Font Thin normal 100">
 <img src="system-images/thin-italic-100.svg" alt="Montserrat Font Thin italic 100">
